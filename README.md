@@ -24,7 +24,7 @@ Este projeto foi desenvolvido como parte de um desafio de lógica de programaç�
 ## Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/OFilipeSantos/Challenge-Amigo-secreto.git
    ```
 2. Abra o arquivo `index.html` no navegador.
 
